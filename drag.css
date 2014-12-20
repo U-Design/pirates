@@ -1,0 +1,30 @@
+#dragDiv{
+	background-color: yellow;
+	width:100px;
+	height: 180px;
+	position: relative;
+}
+#dragHeader{
+	background-color: orchid;
+	width:90px;
+	height: 30px;
+	position: relative;
+	top:10px;
+	left:5px;
+}
+#dragFooter{
+	background-color: firebrick;
+	width:90px;
+	height: 30px;
+	position: relative;
+	top:10px;
+	left:5px;
+}
+#dragBody{
+	background-color: mediumseagreen;
+	width:90px;
+	height: 100px;
+	position: relative;
+	top:10px;
+	left:5px;
+}
